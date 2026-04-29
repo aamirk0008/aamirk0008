@@ -20,6 +20,7 @@ I am a web developer with professional experience building scalable, full-stack 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-black?style=for-the-badge&logo=framer&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
@@ -48,10 +49,10 @@ A secure, scalable backend architecture engineered for a financial dashboard. Fe
 #### 🏗️ Digital Consultancy Platform - Apex Constructions
 A modern web application built with Next.js designed for a civil engineering business. Features an automated estimation tool and optimized lead-generation funnels to drive client acquisition. 
 
-#### ⚡ Wedding Invitation E-commerce store - Nyouta
+#### 💌 Wedding Invitation E-commerce store - Nyouta
 Built a comprehensive RESTful API and an admin dashboard for real-time inventory management. Leveraged Redux for predictable state management across the shopping cart and checkout process.
 
-#### Hotel booking webapp with Channel Manager - IntoTheWildStays
+#### 🏕️ Hotel booking webapp with Channel Manager - IntoTheWildStays
 Building a seamless booking experience that handles real-time availability across multiple room types while ensuring a secure and intuitive user flow.
 Developed a robust MERN architecture with optimized MongoDB queries for availability checks. Integrated JWT for secure authentication and used Framer Motion to create a high-end, fluid user interface.
 
