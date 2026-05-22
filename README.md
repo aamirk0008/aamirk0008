@@ -41,8 +41,10 @@ I am a web developer with professional experience building scalable, full-stack 
 
 ### 🏆 Featured Projects
 
-#### 🤖 AI-Powered PDF Reader
-A MERN stack application that allows users to upload documents and interact with them via a chatbot. Integrated the Gemini API to process document context and generate accurate, intelligent answers directly from the text.
+#### 🤖 DocuMind — AI Document Q&A System
+DocuMind is a full-stack, AI-powered document intelligence platform that transforms static PDFs into interactive, conversational knowledge bases. Users can seamlessly upload complex documents and instantly extract insights, summaries, and exact answers using natural language queries.
+
+Built to handle real-world data processing efficiently, the system implements an advanced RAG (Retrieval-Augmented Generation) architecture. It features a non-blocking, asynchronous ingestion pipeline to manage heavy file uploads and relies on semantic vector search for high-accuracy context retrieval.
 
 #### 📊 Financial Dashboard Backend
 A secure, scalable backend architecture engineered for a financial dashboard. Features robust data processing pipelines and comprehensive Role-Based Access Control (RBAC) to ensure strict data security and user management.
